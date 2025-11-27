@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Operational Risk Management Projects
 
-- **[ServiceNow Ticketing Implementation](https://github.com/MalcWarren22/Vulnerability-Management-Program)**
+- **[ServiceNow Ticketing Implementation](https://github.com/NaashonWill2000/ServiceNow-Ticketing-Project)**
 
 
 <hr/>
