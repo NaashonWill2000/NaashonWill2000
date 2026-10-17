@@ -6,7 +6,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Operational Risk Management Projects
 
 - **[ServiceNow Ticketing Implementation](https://github.com/NaashonWill2000/ServiceNow-Ticketing-Project)**
+- **[GRC Risk Simulator](https://github.com/NaashonWill2000/GRC-Risk-Register-Simulation)**
 
+## ⚠️ Cybersecurity Operations & Infrastructure Projects
+
+- **[Active Directory & Group Policy](https://github.com/NaashonWill2000/active-directory-group-policy-lab)**
+- **[Endpoint Security Monitoring](https://github.com/NaashonWill2000/windows-endpoint-security-monitoring-lab)**
 
 <hr/>
 
