@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Active Directory & Group Policy](https://github.com/NaashonWill2000/active-directory-group-policy-lab)**
 - **[Endpoint Security Monitoring](https://github.com/NaashonWill2000/windows-endpoint-security-monitoring-lab)**
+- **[Wireshark Network Traffic Analysis & SOC Investigation Lab](https://github.com/NaashonWill2000/wireshark-soc-traffic-analysis-lab)**
 
 <hr/>
 
